@@ -1,7 +1,3 @@
-//Simon Wu
-//11/4/2021
-//CSE 143 Section AP, Neel Jog
-//GrammarSolver
 //Creates class GrammarSolver that processes grammar rules
 //and generates random sentences or other language outputs
 
