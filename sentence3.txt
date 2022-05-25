@@ -1,0 +1,4 @@
+foo::= X 
+bar::= A B C
+baz::= A qux D
+qux::= B | C
